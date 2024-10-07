@@ -1,0 +1,16 @@
+/* src/App.css */
+.main-content {
+  margin-left: 16rem; /* نفس عرض الشريط الجانبي */
+  padding-top: 64px;
+}
+
+/* styles.css أو App.css */
+.navbar {
+  height: 60px; /* أو أي ارتفاع تفضله */
+  background-color: white; /* أو لون الخلفية الذي تفضله */
+}
+
+.flex-1 {
+  overflow-y: auto; /* لجعل المحتوى قابلًا للتمرير */
+  margin-top: 16px; /* لإضافة مسافة أعلى للـ main */
+}

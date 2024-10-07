@@ -1,0 +1,7 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    position: fixed; /* Keep the sidebar fixed */
+    height: 100vh; /* Full height */
+    overflow-y: auto; /* Allow scrolling within the sidebar if needed */
+  }
+  
